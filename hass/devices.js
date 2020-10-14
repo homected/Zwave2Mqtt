@@ -339,7 +339,7 @@ module.exports = {
   '152-12-25857': [THERMOSTAT_2GIG], // Radio Thermostat / 2GIG CT101
   '152-263-25601': [THERMOSTAT_2GIG], // Radio Thermostat / 2GIG CT100
   '152-256-8194': [THERMOSTAT_2GIG], // Radio Thermostat / 2GIG CT32
-  '271-4096-770': [COVER], // Fibaro FGS222
+  '271-4096-770': [COVER], // Fibaro FGRM222
   '328-1-1': [STELLA_ZWAVE],
   '328-1-3': [SPIRIT_ZWAVE_PLUS],
   '328-2-3': [SPIRIT_ZWAVE_PLUS],
